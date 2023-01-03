@@ -1,0 +1,25 @@
+body {
+  max-width: 1400px;
+  margin: auto;
+  padding: 20px 30px;
+  
+}
+
+/* Header */
+.header-section {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Lexend Deca', sans-serif;
+}
+.nav-bar{
+  display: flex;
+  gap: 20px;
+}
+button{
+  background-color: rgb(67, 67, 245);
+  padding: 10px 20px;
+  color: white;
+  font-size: 16px;
+  border: none;
+
+}
